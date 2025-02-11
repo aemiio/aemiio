@@ -9,7 +9,16 @@
 🎨 Creating notion, google sheets, and MS Excel templates<br/>
 🌷 Currently interested in AI, ML, and Data Analytics
 
+###### currently listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zk2i5m5n8l6k11v0s7a0fkam8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=191724&interchange=false&bar_color=e89ff1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+# 🌐 Contacts:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyra-mae-celajes)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aemio)
+[![Raket.PH](https://img.shields.io/badge/Raket.PH-ff7e20.svg?style=for-the-badge&logoColor=ebbcba)](https://www.raket.ph/aemiocreates)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]((mailto:cjyramae@gmail.com))
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/850749430781050970)
+
 
 # 💻 Tech Stack
 
@@ -31,6 +40,10 @@
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 # 📊 GitHub Stats:
@@ -42,12 +55,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aemiio&theme=rose_pine&hide_border=true)<br/>
 ![](https://raw.githubusercontent.com/aemiio/aemiio/main/profile-summary-card-output/rose_pine/0-profile-details.svg)
 
-
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyra-mae-celajes)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aemio)
-[![Raket.PH](https://img.shields.io/badge/Raket.PH-ff7e20.svg?style=for-the-badge&logoColor=ebbcba)](https://www.raket.ph/aemiocreates)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aemiio&label=Profile%20Views&color=d08ed2&style=for-the-badge)
