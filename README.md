@@ -51,8 +51,8 @@
 ![](https://raw.githubusercontent.com/aemiio/aemiio/main/profile-summary-card-output/rose_pine/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/aemiio/aemiio/main/profile-summary-card-output/rose_pine/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/aemiio/aemiio/main/profile-summary-card-output/rose_pine/4-productive-time.svg)
-![](https://github-readme-stats.vercel.app/api?username=aemiio&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aemiio&theme=rose_pine&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aemiio&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aemiio&theme=rose_pine&hide_border=true)
 ![](https://raw.githubusercontent.com/aemiio/aemiio/main/profile-summary-card-output/rose_pine/0-profile-details.svg)
 
 
