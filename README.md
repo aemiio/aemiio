@@ -15,7 +15,7 @@
 # 🌐 Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyra-mae-celajes)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aemio)
-[![Raket.PH](https://img.shields.io/badge/Raket.PH-ff7e20.svg?style=for-the-badge&logoColor=ebbcba)](https://www.raket.ph/aemiocreates)
+<!--[![Raket.PH](https://img.shields.io/badge/Raket.PH-ff7e20.svg?style=for-the-badge&logoColor=ebbcba)](https://www.raket.ph/aemiocreates)-->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjyramae@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/850749430781050970)
 
