@@ -7,7 +7,7 @@
 # 💫 About Me:
 👩🏻‍🎓 Studying Computer Science at the Cavite State University<br/>
 <!--🎨 Creating notion, google sheets, and MS Excel templates<br/>-->
-🌷 Currently interested in AI, ML, and Data Analytics
+🌷 Currently interested in AI, ML, and Data Science
 
 ###### currently listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zk2i5m5n8l6k11v0s7a0fkam8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=191724&interchange=false&bar_color=e89ff1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
