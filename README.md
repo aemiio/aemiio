@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 👩🏻‍🎓 Studying Computer Science at the Cavite State University<br/>
-🎨 Creating notion, google sheets, and MS Excel templates<br/>
+<!--🎨 Creating notion, google sheets, and MS Excel templates<br/>-->
 🌷 Currently interested in AI, ML, and Data Analytics
 
 ###### currently listening to:
