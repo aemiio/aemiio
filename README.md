@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Jyra!
 
-![](https://github.com/aemiio/aemiio/blob/main/%E2%9C%AE%20sugarmints%20artblog%20%E2%9C%AE.gif)
+![](https://github.com/aemiio/aemiio/blob/main/26ff5e5641b3ee310785bffa7bea0fb4_waifu2x_2x_1n.gif)
 
 # 💫 About Me:
 👩🏻‍🎓 Studying Computer Science at the Cavite State University<br/>
