@@ -5,6 +5,7 @@
 ![](https://github.com/aemiio/aemiio/blob/main/26ff5e5641b3ee310785bffa7bea0fb4_waifu2x_2x_1n.gif)
 
 # 💫 About Me:
+📌 Data Analyst
 👩🏻‍🎓 Computer Science Graduate at the Cavite State University<br/>
 <!--🎨 Creating notion, google sheets, and MS Excel templates<br/>-->
 🌷 Currently interested in AI, ML, and Data Science
