@@ -22,7 +22,7 @@ Currently working with **data analytics, automations, and enterprise datasets**,
 • 📚 Always learning new tools for **data analysis and automation**
 
 ---
-
+<!--
 # 🚀 Featured Projects
 
 ### 🧠 Braille-Lens: Tagalog Braille Recognition
@@ -34,8 +34,7 @@ Currently working with **data analytics, automations, and enterprise datasets**,
 - Analyzed real-world **AQI data using Python**
 - Built a **regression-based forecasting model**
 - Visualized pollutant trends using **Matplotlib**
-
----
+-->
 
 # 💻 Current Tech Stack
 
